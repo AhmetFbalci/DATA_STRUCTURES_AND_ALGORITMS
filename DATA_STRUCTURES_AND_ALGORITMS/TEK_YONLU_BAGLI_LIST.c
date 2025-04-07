@@ -20,7 +20,7 @@ int main() {
     int secim;
 
     printf("--------------------------------------------------\n");
-    printf("| 1 - Sona Ekleme\n");
+    printf("| 1 - Sona Eklemee\n");
     printf("| 2 - Basa Ekleme\n");
     printf("| 3 - Listeyi Goster\n");
     printf("| 4 - Bastan Sil\n");
